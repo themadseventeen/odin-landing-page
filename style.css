@@ -179,7 +179,7 @@ div {
 }
 
 .call-banner {
-    height: 100px;
+    height: fit-content;
     flex: 1;
     background-color: #3882F6;
     display: flex;
